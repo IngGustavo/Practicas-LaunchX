@@ -24,6 +24,7 @@ Es la tarea que se encarga en la definición y diseño del software, para poder 
 ![Buyer Persona](https://user-images.githubusercontent.com/114264759/197316467-7e44ba9f-e4b9-4798-8047-3106a818d6b4.png)
 
 ## Público Objetivo
-![Público Objetivo](https://user-images.githubusercontent.com/114264759/197316793-2769426b-1a4c-4fe5-8e65-182a987c6db5.png)
+![Público Objetivo](https://user-images.githubusercontent.com/114264759/197316954-775e2ef8-34be-4e7b-ab91-2ba542eff2fe.png)
+
 
 
