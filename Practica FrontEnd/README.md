@@ -26,5 +26,11 @@ Es la tarea que se encarga en la definición y diseño del software, para poder 
 ## Público Objetivo
 ![Público Objetivo](https://user-images.githubusercontent.com/114264759/197316954-775e2ef8-34be-4e7b-ab91-2ba542eff2fe.png)
 
+## Wireframe (UX)
+
+
+
+## User Interface (UI)
+
 
 
