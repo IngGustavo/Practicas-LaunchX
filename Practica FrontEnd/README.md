@@ -1,7 +1,7 @@
 # Practicas de intro FrontEnd
 Crear una aplicación web enfocada a la automatización de demandas de los clientes de un despacho de abogados, usando un formulario donde se capturarán los datos de la demanda, después se mandará a un proceso de pago para aprobación de dicha demanda.
 
-## Requisitos
+## Descripción
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a través de una página web llenando un formulario.
 -	Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
 -	Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
@@ -11,4 +11,7 @@ Crear una aplicación web enfocada a la automatización de demandas de los clien
 -	Al usuario le llegan correos de notificación para saber el avance de su proceso.
 -	La página debe de ser responsive para poderla ver desde el celular.
 -	La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+## Requisitos
+
 
