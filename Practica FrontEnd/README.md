@@ -27,10 +27,10 @@ Es la tarea que se encarga en la definición y diseño del software, para poder 
 ![Público Objetivo](https://user-images.githubusercontent.com/114264759/197316954-775e2ef8-34be-4e7b-ab91-2ba542eff2fe.png)
 
 ## Wireframe (UX)
-
+El diseño UX (User Experience) es el diseño enfocado a la experiencia que el usuario tendrá a la hora de probar cualquier interfaz, para este punto el diseño debe de estar más enfocado a las mecánicas más que al del diseño, para así comprobar su efectividad ante el publico.
 
 
 ## User Interface (UI)
-
+El diseño UI (User Interface) es, como su nombre lo indica, el diseño de la interfaz de usuario, en esta sección, se profundiza más en el diseño, colores, icono etc. De todo lo que conlleva, en este caso, la aplicación Abogabot.
 
 
