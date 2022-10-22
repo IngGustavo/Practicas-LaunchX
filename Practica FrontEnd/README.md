@@ -12,8 +12,16 @@ Crear una aplicación web enfocada a la automatización de demandas de los clien
 -	La página debe de ser responsive para poderla ver desde el celular.
 -	La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-## Practicas
+## Requerimientos
 Es la tarea que se encarga en la definición y diseño del software, para poder tener una mejor planificación del proyecto.
 
-[1.-Requerimientos.pdf](https://github.com/IngGustavo/Practicas-LaunchX/files/9843397/1.-Requerimientos.pdf)
+- [Requerimientos.pdf](https://github.com/IngGustavo/Practicas-LaunchX/files/9843397/1.-Requerimientos.pdf)
+
+## Diagrama de Flujo
+![diagrama de flujo](https://user-images.githubusercontent.com/114264759/197316611-cc74268d-5867-4823-a7a4-ca24c02f5346.jpg)
+
+## Buyer Persona
+![Buyer Persona](https://user-images.githubusercontent.com/114264759/197316467-7e44ba9f-e4b9-4798-8047-3106a818d6b4.png)
+
+##
 
