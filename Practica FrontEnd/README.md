@@ -13,6 +13,7 @@ Crear una aplicación web enfocada a la automatización de demandas de los clien
 -	La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ## Practicas
-1.-[Toma de Requerimientos](https://github.com/IngGustavo/Practicas-LaunchX/blob/main/Practica%20FrontEnd/1.-requerimientos.md)
+Es la tarea que se encarga en la definición y diseño del software, para poder tener una mejor planificación del proyecto.
 
+[1.-Requerimientos.pdf](https://github.com/IngGustavo/Practicas-LaunchX/files/9843397/1.-Requerimientos.pdf)
 
