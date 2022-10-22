@@ -23,6 +23,6 @@ Es la tarea que se encarga en la definición y diseño del software, para poder 
 ## Buyer Persona
 ![Buyer Persona](https://user-images.githubusercontent.com/114264759/197316467-7e44ba9f-e4b9-4798-8047-3106a818d6b4.png)
 
-## Publico Objetivo
+## Público Objetivo
 
 
