@@ -28,9 +28,20 @@ Es la tarea que se encarga en la definición y diseño del software, para poder 
 
 ## Wireframe (UX)
 El diseño UX (User Experience) es el diseño enfocado a la experiencia que el usuario tendrá a la hora de probar cualquier interfaz, para este punto el diseño debe de estar más enfocado a las mecánicas más que al del diseño, para así comprobar su efectividad ante el publico.
+[4.-Wireframe UX.docx](https://github.com/IngGustavo/Practicas-LaunchX/files/9874624/4.-Wireframe.UX.docx)
 
+![1](https://user-images.githubusercontent.com/114264759/198162790-4b53fde1-7971-48c1-8b26-c2cd04df8c02.png)
+![2](https://user-images.githubusercontent.com/114264759/198162802-565d92c5-54a4-47ad-8699-ab4a751dd107.png)
+![3](https://user-images.githubusercontent.com/114264759/198162809-bed8c673-12ea-4e6f-a6d1-3bb9bfe2cb18.png)
 
 ## User Interface (UI)
 El diseño UI (User Interface) es, como su nombre lo indica, el diseño de la interfaz de usuario, en esta sección, se profundiza más en el diseño, colores, icono etc. De todo lo que conlleva, en este caso, la aplicación Abogabot.
+
+[5.-UI.docx](https://github.com/IngGustavo/Practicas-LaunchX/files/9874640/5.-UI.docx)
+
+![1](https://user-images.githubusercontent.com/114264759/198163218-24ae142d-0343-4687-844b-a94c6f55d440.png)
+![2](https://user-images.githubusercontent.com/114264759/198163221-c8221802-3794-4b23-8209-4e7535e63473.png)
+![3](https://user-images.githubusercontent.com/114264759/198163219-98badc98-891b-4c01-9099-17e0c0d40c67.png)
+
 
 
