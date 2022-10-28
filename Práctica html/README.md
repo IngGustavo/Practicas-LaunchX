@@ -1,6 +1,7 @@
 # Practica HTML
 
-
+## Practica Pasteleria
+### Caso:Pasteleria
 Descripción:
 -	El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
 -	El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
