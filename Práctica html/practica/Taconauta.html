@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taconauta</title>
+</head>
+<body>
+    <header>
+        <h1>Taconauta, desde 2020</h1>
+    </header>
+
+    <section>
+    <img src="../Images/Logo_Taconauta.png" alt="Logo Taconauta ">
+
+    <h2>Menú</h2>
+    <h3>Tacos grandes</h3>
+    <p>Todos incluyen nopales y cebollas</p>
+    <ul>
+        <li>Bisteck .................. $30</li>
+        <li>Chorizo .................. $30</li>
+        <li>Chuleta .................. $30</li>
+        <li>Pastor  .................. $30</li>
+        <li>Campechanos .............. $30</li>
+    </ul>
+
+    <h3>Tacos pequeños</h3>
+    <p>Con cilantro y cebolla</p>
+    <ul>
+        <li>Bisteck .................. $15</li>
+        <li>Chorizo .................. $15</li>
+        <li>Chuleta .................. $15</li>
+        <li>Pastor  .................. $15</li>
+        <li>Campechanos .............. $15</li>
+    </ul>
+
+    <h3>Tacos especiales</h3>
+    <p>Haz tu combo con refresco por $10 más</p>
+    <dl>
+        <dt><b>Labrador</b> ................. $40</dt>
+        <dd>- Tortilla de maiz con pollo asado</dd>
+        <dt><b>Pastor Aleman</b> ............ $40</dt>
+        <dd>- Tortilla de harina con carne de res y queso</dd>
+        <dt><b>Pug</b> ...................... $40</dt>
+        <dd>- Tortilla de maiz con chuleta</dd>
+        <dt><b>Adaptado</b> ................. $40</dt>
+        <dd>- Tortilla de maiz con Pastor</dd>
+    </dl>
+    </section>
+    <hr>
+
+    <section>
+    <h2>Ubicación</h2>
+    <h3>Sucursales</h3>
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Ubicación</th>
+            <th>Horario</th>
+        </tr>
+        <tr>
+            <td>Centro</td>
+            <td><a href="https://goo.gl/maps/ZWs3H5RurxNmbtrb6" target="_blank">Dr. Ignacio Hierro 307, Zacatecas Centro</a></td>
+            <td>L - D 24H</td>
+        </tr>
+        <tr>
+            <td>Sur</td>
+            <td><a href="https://goo.gl/maps/hQURGt6dNUhzkNP99">Plaza Soriana, Blvd. Lopez Portillo 1. Tres Cruces.</a></td>
+            <td>L - D 5pm - 3am</td>
+        </tr>
+        <tr>
+            <td>Norte</td>
+            <td><a href="https://goo.gl/maps/q47GFbpqLhdWbGXC7">Quinta Las Mercedes 1203 Lomas de bracho.</a></td>
+            <td>M - D 5pm - 3am</td>
+        </tr>
+    </table>
+    </section>
+
+    <hr>
+
+    <section>
+    <h2>Pedidos</h2>
+    <h3>Haz tu pedido aquí</h3>
+    <p>¿De qué taqueria quieres?</p>
+
+    <form action="">
+        <select>
+            <option value="Norte">Norte</option>
+            <option value="Centro">Centro</option>
+            <option value="Sur">Sur</option>
+        </select>
+
+        <p>¿De qué tacos quíeres?</p>
+        <input type="checkbox" id="Bistec" name="Bisteck" value="Bistec">
+        <label for="Bistec">Bisteck</label>
+        <input type="number" id="BisteckNumber" name="BisteckNumber" placeholder="¿Cuántos?"></input>
+        <br>
+        <input type="checkbox" id="Chorizo" name="Chorizo" value="Chorizo">
+        <label for="Chorizo">Chorizo</label>
+        <input type="number" id="ChorizokNumber" name="BisteckNumber" placeholder="¿Cuántos?"></input>
+        <br>
+        <input type="checkbox" id="Pastor" name="Pastor" value="Pastor">
+        <label for="pastor">Pastor</label>
+        <input type="number" id="PastorNumber" name="BisteckNumber" placeholder="¿Cuántos?"></input>
+        <br>
+        <input type="checkbox" id="Chuleta" name="Chuleta" value="Chuleta">
+        <label for="Chuleta">Chuleta</label>
+        <input type="number" id="ChuletaNumber" name="BisteckNumber" placeholder="¿Cuántos?"></input>
+        <br>
+        <input type="checkbox" id="Campeñano" name="Campeñano" value="Campeñano">
+        <label for="Campeñano">Campeñano</label>
+        <input type="number" id="CampeñanoNumber" name="CampeñanoNumber" placeholder="¿Cuántos?"></input>
+        <br><br>
+
+        <label for="Nombre">Nombre:</label><br>
+        <input type="text" id="Nombre" name="Nombre" placeholder="¿Como te llamas?">
+  
+        <br><br>
+        <label for="Telefono">Teléfono:</label><br>
+        <input type="text" id="Teléfono" name="Teléfono" placeholder="¿Tu telefono?">
+        
+        <br><br>
+        <label for="Direccion">Direccion:</label><br>
+        <input type="text" id="Direccion" name="Direccion" placeholder="¿Tu Direccion?">
+        
+        <br><br>
+        <button type="submit">Enviar pedido</button>
+    </form>
+    <section>
+    
+    
+</body>
+</html>
