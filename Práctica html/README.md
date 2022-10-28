@@ -2,6 +2,10 @@
 ## Práctica Taqueria
 Empresa ficticia de taquería, donde se verán los menús de tacos grandes, pequeños y especiales con su respectivo precio y descripción del producto. La ubicación de las sucursales y su horario. Con un formato de pedido para que el cliente pueda ingresar y poder realizar su pedido.
 
+- Imagen de taquería
+- 
+- Código de taqueria 
+
 ## Practica Pasteleria
 ### Caso:Pasteleria
 Descripción:
