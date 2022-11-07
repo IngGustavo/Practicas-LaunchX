@@ -29,3 +29,20 @@ Descripción:
 -	Maquetación de páginas de cliente de la pastelería.
 -	Maquetación de páginas del pastelero.
 
+## Logo de Pasteleria
+- [Logo La Casa de la Abuela](https://user-images.githubusercontent.com/114264759/200440390-4f7daa42-557f-4dda-a26a-e1ee1f47e59e.png)
+
+![La Casa de la Abuela](https://user-images.githubusercontent.com/114264759/200440390-4f7daa42-557f-4dda-a26a-e1ee1f47e59e.png)
+
+
+
+## Wireframe UX
+- [Pasteleria UX](https://user-images.githubusercontent.com/114264759/200440680-918a1688-9576-4d18-93d5-1768e335f7d9.png)
+
+![Pasteleria UX](https://user-images.githubusercontent.com/114264759/200440680-918a1688-9576-4d18-93d5-1768e335f7d9.png)
+
+## Wireframe UI
+- [Pasteleria UI](https://user-images.githubusercontent.com/114264759/200440840-c9e22567-e107-4f56-a86c-deddb1c4805c.jpg)
+
+![Pasteleria UI](https://user-images.githubusercontent.com/114264759/200440840-c9e22567-e107-4f56-a86c-deddb1c4805c.jpg)
+
