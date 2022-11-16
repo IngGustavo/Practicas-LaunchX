@@ -1,0 +1,216 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    /*background-color: gray;*/
+    background-color: #E7AB79;
+    padding: 0;
+    margin: 0;
+}
+  
+/* Menú  */
+.nav_menu{
+    background-color: #B25068;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ul_Menu{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+
+li{
+    padding: 15px;
+}
+
+.letrasMenu:hover{
+    color: black;
+}
+
+.letrasMenu{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.logo{
+    padding: 0;
+    width: 350px;
+    height: 70px;
+    justify-content: center;
+}
+
+.logoLetras{
+    background-image: url("../Images/logos/letrasBlancas.png");
+}
+
+
+/* Body  texto*/
+h1{
+    text-align: center;
+    color: white;
+    font: bold 48px sans-serif;
+}
+
+
+.info{
+    text-align: left;
+    font: bold 32px sans-serif;
+    color: black;
+    margin: 0;
+    padding: 5px;
+}
+
+
+
+/* Body  articulos / div / section */
+.div_productos{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.art_productos{
+    text-align: center;
+    height: 440px;
+    width: 400px;
+}
+
+
+/* Botones*/
+.divBoton{
+    text-align: center;
+    display: block;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.botonPedido{
+    height: 35px;
+    width: 250px;
+    border-radius: 15px;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+    background-color: #B25068;
+}
+
+.botonPedido:hover{
+    background-color:  #4C3A51;
+    border: 5px solid  #B25068;
+    font-size: 30px;
+}
+
+
+
+
+
+/* Pie de pagina */
+
+.nav_contactanos{
+    height: 270px;
+    background-color: #B25068;
+}
+
+.nav_pie{
+    background-color: #4C3A51;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.ul_pie{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color: white;
+    justify-content: center;
+}
+
+.p_pie{
+    color: black;
+    text-align: center;
+    font: bold 18px sans-serif;
+    margin: 0;
+    padding: 5px;
+}
+
+hr{
+    margin: 0;
+    color: black;
+    height: 4px;
+    border: 0;
+    background-color: black;
+}
+
+/* Iconos */
+.iconoRedes{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+}
+
+.iconoFace{
+    background-image: url("../Images/iconos/iconoFace.png");
+}
+
+.iconoInsta{
+    background-image: url("../Images/iconos/iconoInsta.png");
+}
+
+.iconoTikTok{
+    background-image: url("../Images/iconos/icnoTikTok.png");
+}
+
+.iconoLinea{
+    width: 64px;
+    height: 150px;
+    background-image: url("../Images/iconos/icono_linea.png");
+}
+
+.iconoTelefono{
+    width: 284px;
+    height: 50px;
+    background-image: url("../Images/iconos/iconoTelefono.png");
+}
+
+/* Imagenes footer */
+
+.iconoCarro{
+    width: 84px;
+    height: 81px;
+    background-image: url("../Images/iconos/icono_carro.png");
+}
+
+.iconoServicio{
+    width: 66px;
+    height: 81px;
+    background-image: url("../Images/iconos/icono_servicio.png");
+}
+
+.iconoTarjeta{
+    width: 105px;
+    height: 81px;
+    background-image: url("../Images/iconos/icono_tarjeta.png");
+}
+
+.iconoDiamante{
+    width: 82px;
+    height: 81px;
+    background-image: url("../Images/iconos/icono_diamante.png");
+}
+
+

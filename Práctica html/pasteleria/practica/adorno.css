@@ -1,0 +1,40 @@
+.imagenInicio{
+    height: 1050PX;
+    background-image: url("../Images/imagenes/Adorno.jpg");
+}
+
+.art_adornos{
+    text-align: center;
+    width: 350px;
+    height: 500px;
+
+}
+
+.sombra{
+    width: 50%;
+    display: flex;
+    background-color: white;
+    opacity: 60%;
+}
+
+.pastelChocolate{
+    height: 490PX;
+    background-image: url("../Images/imagenes/pastel\ adorno\ 1.jpg");
+}
+
+.pastelFrutales{
+    height: 500PX;
+    background-image: url("../Images/imagenes/pastel\ adorno\ 2.jpg");
+}
+
+.pastelFlores{
+    height: 500PX;
+    background-image: url("../Images/imagenes/pastel\ adorno\ 3.jpg");
+}
+
+.pastelSnacks{
+    height: 500PX;
+    background-image: url("../Images/imagenes/pastel\ adorno\ 4.jpg");
+}
+
+

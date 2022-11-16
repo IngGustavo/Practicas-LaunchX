@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedidios</title>
+    <link rel="stylesheet" href="./base.css">
+    <link rel="stylesheet" href="./pedidos.css">
+    
+</head>
+<body>
+    <header>
+        <nav class="nav_menu">
+         <div>
+             <ul class="ul_Menu">
+                 <li><a> <img src="../Images/logos/letrasBlancas.png" alt="LaCasaDeLaAbuela" class="logo"></a></li>
+             </ul>
+         </div>
+         <div>
+             <ul class="ul_Menu">
+                 <li> <a href="index.html" class="letrasMenu"> Inicio</a></li>
+                 <li> <a href="pasteles.html" class="letrasMenu">Pasteles</a></li>
+                 <li> <a href="adornos.html" class="letrasMenu">Adornos</a></li>
+                 <li> <a href="sucursales.html" class="letrasMenu">Sucursales</a></li>
+                 <li> <a href="pedidos.html" class="letrasMenu">Pedidos</a></li>
+                 <li> <a href="administrador.html" class="letrasMenu">Administrador</a></li>
+             </ul>
+         </div>
+        </nav>
+     </header>
+
+
+     <section class="formulario" id="formulario">
+        <form action>
+            <h1 class="h1">Realiza tu pedido</h1>
+            <div class="datos">
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" id="nombre" placeholder="Ingresa tu nombre">
+                <label for="Apellido">Apellido</label>
+                <input type="text" name="apellido" id="apellido" placeholder="Ingresa tu apellido">
+                <label for="nombre">Telefono</label>
+                <input type="tel" name="telefono" id="telefono" placeholder="Número de telefono">
+                <label for="nombre">Correo Electronico</label>
+                <input type="email" name="correo" id="correo" placeholder="Correo Electronico">
+            </div>
+            <div class="infoPedido">
+                <div>
+                    <p>Selecciona el sabor</p>                  
+                    <select name="sabores" id="sabores">
+                        <option value="chocolate">Chocolate</option>
+                        <option value="frutas">Frutas</option>
+                        <option value="cajeta">Cajeta</option>
+                        <option value="vainilla">Vainilla</option>
+                    </select>
+                </div>
+
+                <div>
+                    <p>Slecciona la decoración</p>
+                    <select name="adornos" id="adornos">
+                        <option value="florales">Florales</option>
+                        <option value="chocolateMix">Chocolate Mix</option>
+                        <option value="frutales">Frutales</option>
+                        <option value="snack's">Snack's</option>
+                    </select>
+                </div>
+
+                <textarea name="descripcion" id="descripcion" cols="30" rows="10" placeholder="Descripcion del pastel"></textarea>
+                
+            </div>
+
+            <input type="reset" value="Cancelar" class="reset">
+            <button>Aceptar</button>
+    
+            
+            
+         </form>
+     </section>
+     
+
+
+
+
+    <Footer>
+        <nav class="nav_contactanos">
+            <h1>Contactanos</h1>
+            <ul class="ul_pie">
+                <li class="info">Siguenos
+                    <ul class="ul_pie">
+                        <li><section  class="iconoFace iconoRedes"></section></li>
+                        <li><section  class="iconoInsta iconoRedes"></section></li>
+                        <li><section  class="iconoTikTok iconoRedes"></section></li>
+                    </ul>
+                </li>
+                <li><section  class="iconoLinea"></section></li>
+                <li class="info">o llama al<section  class="iconoTelefono"></section></li>
+            </ul>
+        </nav>
+        <nav class="nav_pie">
+            <ul class="ul_pie">
+                <li><section  class="iconoCarro"></section>Envios a domicilio</li>
+                <li><section  class="iconoServicio"></section>Envios a domicilio</li>
+                <li><section  class="iconoTarjeta"></section>Envios a domicilio</li>
+                <li><section  class="iconoDiamante"></section>Envios a domicilio</li>
+            </ul>
+            <hr>
+            <p class="p_pie">Pasteleria - Gustavo Rodríguez - Launch-X</p>
+        </nav>
+    
+    </Footer>
+    
+</body>
+</html>

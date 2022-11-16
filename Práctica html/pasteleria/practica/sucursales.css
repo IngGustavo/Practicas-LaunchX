@@ -1,0 +1,29 @@
+.div_map{
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+.div_contacto{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.art_contacto{
+    display: block;
+}
+
+.ul{
+    list-style-type: none;
+}
+
+.centro{
+    text-align: center;
+}
+

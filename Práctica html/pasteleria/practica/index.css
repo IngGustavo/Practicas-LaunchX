@@ -1,0 +1,16 @@
+.imagenInicio{
+    height: 1000PX;
+    background-image: url("../Images/imagenes/pastel\ principal.jpg");
+}
+.pastelFrutos{
+    height: 300px;
+    background-image: url("../Images/imagenes/pastel\ frutos\ rojos.jpg");
+}
+.pastelMermelada{
+    height: 300px;
+    background-image: url("../Images/imagenes/pastel\ mermelada.jpg");
+}
+.pastelFresasCrema{
+    height: 300px;
+    background-image: url("../Images/imagenes/pastel\ -\ fresas\ con\ crema.jpg");
+}

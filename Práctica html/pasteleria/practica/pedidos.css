@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width:  52%;
+    color: white;
+    margin: auto;
+}
+
+.formulario{
+    height: 1010px;
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.5) , rgba(0, 0, 0, 0.4)) , 
+    url(../Images/imagenes/pedidos.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario h1{
+    place-self: center;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    grid-column: 1/3;
+
+}
+
+
+
+.h1{
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div{
+    display: block;
+}
+
+form>div{
+    width: 100%;
+    padding: 18px;
+}
+
+form .datos label{
+    margin-left: 20px;
+    font-size: calc(19.2px*1.1);
+}
+
+label{
+    cursor: default;
+}
+
+form .datos input{
+    width: 100%;
+    outline: none;
+    border: none;
+    margin-bottom: 30px;
+    padding: 16px 16px;
+    font-size: 16px;
+    border-radius: 100px;
+}
+
+input{
+    writing-mode: horizontal-tb;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    
+    text-align: start;
+    appearance: auto;
+    cursor: text;
+    background-color: field;
+}
+
+
+form .infoPedido{
+    display: block;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+form .infoPedido div{
+    width: 200px;
+}
+
+form .infoPedido p{
+    font-size: calc(19.2px*1.1);
+    width: 500px;
+    margin-bottom: 15px;
+}
+
+p{
+    display: block;
+    margin-block-start: 16px;
+    margin-block-end: 16px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+form .infoPedido select{
+    padding: 16px 30px;
+    border: none;
+    border-radius: 100px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: white;
+}
+
+select:not(:-internal-list-box) {
+    overflow: visible;
+}
+
+select{
+    writing-mode: horizontal-tb;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    align-items: center;
+    white-space: pre;
+    -webkit-rtl-ordering: logical;
+}
+
+option{
+    font-weight: normal;
+    display: block;
+    white-space: nowrap;
+    min-height: 19px;
+    padding: 0px 2px 1px;
+}
+
+textarea{
+    width: 100%;
+    height: 150px;
+    padding: 5px 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+textarea{
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    resize: auto;
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    column-count: initial;
+    border-width: 1px;
+    border-style: solid;
+    border-image: initial;
+
+}
+
+
+button, .reset{
+    text-align: center;
+    height: 50px;
+    width: 40%;
+    outline: none;
+    border: none;
+    margin-bottom: 30px;
+    font-size: 22px;
+    border-radius: 100px;
+    color: white;
+    background-color: #B25068;
+    place-self: center;
+    display: block;
+}
+
+.reset:hover{
+    background-color:  #4C3A51;
+    border: 5px solid  #B25068;
+    font-size: 20px;
+}
+
+
+button:hover{
+    background-color:  #4C3A51;
+    border: 5px solid  #B25068;
+    font-size: 20px;
+}
+

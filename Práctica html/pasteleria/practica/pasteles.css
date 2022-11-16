@@ -1,0 +1,26 @@
+.imagenInicio{
+    height: 1000PX;
+    background-image: url("../Images/imagenes/Pasteles.jpg");
+}
+
+.pastelChocolate{
+    height: 300PX;
+    background-image: url("../Images/imagenes/pastel\ 1.jpg");
+}
+
+.pastelFrutas{
+    height: 300PX;
+    background-image: url("../Images/imagenes/pastel\ 2.jpg");
+}
+
+.pastelCajeta{
+    height: 300PX;
+    background-image: url("../Images/imagenes/pastel\ 3.jpg");
+}
+
+.pastelVainilla{
+    height: 300PX;
+    background-image: url("../Images/imagenes/pastel\ 4.jpg");
+}
+
+
