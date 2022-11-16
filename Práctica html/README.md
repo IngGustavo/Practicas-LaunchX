@@ -1,5 +1,5 @@
 # Practica 
-## Práctica Taqueria
+## Taqueria
 Empresa ficticia de taquería, donde se verán los menús de tacos grandes, pequeños y especiales con su respectivo precio y descripción del producto. La ubicación de las sucursales y su horario. Con un formato de pedido para que el cliente pueda ingresar y poder realizar su pedido.
 
 - [Imagen de taquería]( https://github.com/IngGustavo/Practicas-LaunchX/blob/main/Pr%C3%A1ctica%20html/im%C3%A1genes/Logo_Taconauta.png)
@@ -10,7 +10,7 @@ Empresa ficticia de taquería, donde se verán los menús de tacos grandes, pequ
  
 ---
 
-## Practica Pasteleria
+## Pasteleria
 ### Caso:Pasteleria
 Descripción:
 -	El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
