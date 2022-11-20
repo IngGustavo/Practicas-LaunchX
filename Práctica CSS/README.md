@@ -15,4 +15,4 @@ Para esta práctica necesito que clonen la página que está en el siguiente enl
 
 
 ## Carpeta de programas
-[Archivos de la practica] (https://github.com/IngGustavo/Practicas-LaunchX/tree/main/Pr%C3%A1ctica%20CSS/practica)
+[Archivos de la practica](https://github.com/IngGustavo/Practicas-LaunchX/tree/main/Pr%C3%A1ctica%20CSS/practica)
