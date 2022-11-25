@@ -7,4 +7,4 @@
 
 3.[Practica CSS](https://github.com/IngGustavo/Practicas-LaunchX/tree/main/Pr%C3%A1ctica%20CSS)
 
-4.[Practica JS](https://github.com/IngGustavo/Practicas-LaunchX/tree/main/Pr%C3%A1ctica%20CSS)
+4.[Practica JS](https://github.com/IngGustavo/Practicas-LaunchX/tree/main/Pr%C3%A1ctica%20JS)
