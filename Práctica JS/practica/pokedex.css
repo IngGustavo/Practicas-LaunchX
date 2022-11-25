@@ -1,0 +1,176 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oxanium', cursive;
+}
+
+.fondo{
+    background-image: url(../practica/img/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 98vh;
+    width: 98.5vw;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(to bottom, #6ab7f5, #fff);
+    min-height: 100vh;
+}
+
+main {
+    display: inline-block;
+    margin-top: 2%;
+    padding: 15px;
+    position: relative;
+}
+
+.pokedex {
+    width: 100%;
+    max-width: 425px;
+}
+
+.pokemon_image {
+    position: absolute;
+    bottom: 50%;
+    left: 30%;
+    transform: translate(-63%, 20%);
+    height: 18%;
+}
+
+.pokemon_data {
+    position: absolute;
+    font-weight: 600;
+    color: #6a778e;
+    top: 60%;
+    left: 20%;
+    font-size: clamp(8px, 5vw, 30px);
+}
+
+.pokemon_name {
+    color: #29252C;
+    text-transform: capitalize;
+}
+
+.form {
+    position: absolute;
+    width: 16.5%;
+    bottom: 8.9%;
+    left: 12.5%;
+}
+
+.input_search {
+    width: 100%;
+    padding-top: 16%;
+    padding-bottom: 16%;
+    padding-left: 4%;
+    background: none;
+    color: black;
+    border: 3.5px solid black;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: clamp(8px, 5vw, 1rem);
+    box-shadow: -3px 4px 0 #888, -5px 7px 0 #333;
+}
+
+.buttons {
+    position: absolute;
+    bottom:  18.8%;
+    left: 34%;
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 30%;
+    border: 0;
+    font-size: clamp(5px, 5vw, 1rem);
+    font-size: 200%;
+    font-weight: bold;
+    color:  white;
+    background: none;
+}
+
+.button:active {
+    font-size:  1rem;
+}
+
+
+
+/*  Right */
+.title_abilities {
+    position: absolute;
+    top: 36.7%;
+    left: 61.3%;
+    font-weight: bold;
+    font-size: clamp(8px, 5vw, 10px);
+    background-color: #032D29;
+    color:  #ccd61b;
+}
+
+.poke_types{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    background-color: #032D29;
+    font-weight: 600;
+    color: #222;
+    width: 260px;
+    height: 34px;
+    top: 31%;
+    left: 64.8%;
+    font-size: clamp(8px, 5vw, 20px);
+}
+
+.poke_abilities {
+    position: absolute;
+    text-align: left;
+    background-color: #032D29; /* #032D29*/
+    font-weight: 600;
+    color: #6a778e;
+    width: 230px;
+    height: 53px;
+    top: 35.7%;
+    left: 68%;
+    font-size: clamp(8px, 5vw, 18px);
+    color: #cbccb9;
+}
+
+.poke_types div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    padding: 0;
+    margin: 4px;
+    border-radius: 4px;
+    border: 1px dashed black;
+    color: #000000;
+}
+
+.altura {
+    position: absolute;
+    font-weight: bold;
+    color: #cbccb9;
+    width: 60px;
+    top: 84.8%;
+    left: 66%;
+    font-size: clamp(8px, 5vw, 14px);
+    background-color: #032D29;
+}
+
+.peso {
+    position: absolute;
+    font-weight: bold;
+    color: #cbccb9;
+    width: 70px;
+    top: 84.8%;
+    left: 81.5%;
+    font-size: clamp(8px, 5vw, 14px);
+    background-color: #032D29;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex</title>
+
+    <link rel="icon" href="../practica/img/pokeball.png">
+    <link rel="stylesheet" href="pokedex.css">
+
+</head>
+<body class="fondo">
+   
+    <main>
+        <img src="#" alt="pokemon" class="pokemon_image">
+        <h1 class="pokemon_data">
+            <span class="pokemon_number"></span> - 
+            <span class="pokemon_name"></span> 
+        </h1>
+
+        <form class="form">
+            <input 
+            type="search"
+            class="input_search"
+            placeholder="Name or Number"
+            requiered
+            id="pokeName"
+            />
+        </form>
+
+        <div class="buttons">
+            <button class="button btn-prv"> &lt; </button>
+            <button class="button btn-next"> > </button>
+        </div>
+
+        <div class="pokeInfo">
+            <h1 class="title_abilities">HABILIDAD</h1>
+            <div class="poke_types" id="types"></div>
+            <div class="poke_abilities" id="abilities"></div>
+            <h1 class="altura"></h1>
+            <h1 class="peso">9</h1>
+        </div>
+        
+
+        <img src="./img/pokedex.png" alt="pokedex">
+    </main>
+    
+</body>
+<footer>
+    <script src="pokedex.js"></script>
+</footer>
+</html>
