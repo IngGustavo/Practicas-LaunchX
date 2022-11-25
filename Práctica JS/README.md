@@ -14,7 +14,7 @@ Pagina Web que representara una Pokedex la cual sera responsive y tendra los sig
    - Movimientos
 
 ---
-Para esta practica baso de l asiguiente imagen
+Para esta practica baso de la siguiente imagen
 ![pokedex](https://user-images.githubusercontent.com/114264759/204063143-516fd770-4157-46f0-8f8e-47088ceae664.jpg)
 
 ---
